@@ -1,0 +1,32 @@
+Net Worth:
+- Blue Link (50% each)
+  - Novo Account (balance)
+  - credit card (balance, total interest and fees)
+  - salary (as transfer to personal)
+
+- Checking and saving balances
+- credit card balance and interest
+- acorns
+- robinhood
+- Car Loan balance
+- car value
+- other assets
+
+Monthly budget:
+  Personal:
+    expenses:
+      food: 200
+      stocks: 400
+      acorns/ira: 200
+      gas: 60
+      car Insurance: 200
+      car loan: 250
+      small monthly: 60(grammarly 20, spotify, acorns 1, minecraft 15, gym 23.27)q
+      personal: 300
+      Total: 1670
+    income:
+      Great American: 1500
+      Bluelink: 200
+      total: 1700
+  Blue Link:
+
